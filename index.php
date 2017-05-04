@@ -23,6 +23,9 @@
 				<input type="text" placeholder="aaa@naver.com" id="email">
 				<input type="submit" value="회원가입" class="btn btn-info">
 			</form>
+			<div>
+				<p>TEST</p>
+			</div>
 		</div>
 	</div>
 	</body>
